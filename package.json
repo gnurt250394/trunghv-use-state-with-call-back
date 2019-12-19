@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gnurt250394/trunghv-react-native-video-controls.git",
-    "baseUrl": "https://github.com/gnurt250394/trunghv-react-native-video-controls"
+    "url": "git+https://github.com/gnurt250394/trunghv-use-state-with-call-back.git",
+    "baseUrl": "https://github.com/gnurt250394/trunghv-use-state-with-call-back"
   },
   "keywords": [
     "react-native",
-    "react-native-video"
+    "react-native-hook"
   ],
   "author": {
     "name": "Gnurt",
